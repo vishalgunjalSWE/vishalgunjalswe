@@ -44,7 +44,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgunjalswe&layout=compact" />
 
-![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+![Metrics](https://github.com/vishalgunjalSWE/vishalgunjalswe/blob/1133393f450b9dae110f86892b45f5ccf0482744/github-metrics.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
