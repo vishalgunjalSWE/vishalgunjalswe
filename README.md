@@ -1,12 +1,13 @@
 <img src="image.jpeg" alt="GitHub Banner" width="100%" />
 
-# Hey there! I'm Vishal D. Gunjal, a passionate developer fueled by a thirst for knowledge and a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
+## Hey there! I'm Vishal D. Gunjal, a passionate developer fueled by a thirst for knowledge & a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&duration=1500&lines=Hey+there!;I'm+Vishal+D.+Gunjal,+A+passionate+developer+fueled+by+a+thirst+for+knowledge+and+a+love+for+conquering+new+technical+peaks+(+both+in+code+and+on+actual+mountains+!+!+)+%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;DevOps/SRE+Enthusiast;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
+
 <!-- <-- <a href="https://app.daily.dev/vishalgunjal0287"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card"/></a> -->
 
 <!-- markdownlint-enable MD033 -->
