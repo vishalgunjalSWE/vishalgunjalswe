@@ -1,5 +1,8 @@
 # Hi, I'm Vishal D. Gunjal
-![](https://komarev.com/ghpvc/?username=vishalgunjalswe)
+![](https://komarev.com/ghpvc/?username=vishalgunjalswe&icon=0&color=0)
+
+[![](https://visitcount.itsvg.in/api?id=vishalgunjalSWE&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vishal-gunjal-)
@@ -50,7 +53,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ![](https://github-contributor-stats.vercel.app/api?username=vishalgunjalSWE&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishalgunjalSWE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
