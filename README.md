@@ -4,10 +4,10 @@
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;DevOps/SRE+Enthusiast;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Hey+there!;I'm+Vishal+D.+Gunjal,+A+passionate+developer+fueled+by+a+thirst+for+knowledge+and+a+love+for+conquering+new+technical+peaks+(+both+in+code+and+on+actual+mountains+!+!+)+%3F)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=F77B93&size=25&center=true&vCenter=true&duration=1500&lines=Hey+there!;I'm+Vishal+D.+Gunjal!;A+passionate+developer+fueled+by+learning!;Loving+to+conquer+new+technical+peaks!)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
-
 <!-- <-- <a href="https://app.daily.dev/vishalgunjal0287"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card"/></a> -->
 
 <!-- markdownlint-enable MD033 -->
@@ -22,7 +22,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 - Expanding my knowledge in **GCP** and preparing for **GCP certifications** to excel as a fresher DevOps engineer.
 
 ---
-
 
 🚀 **Leveling Up My Skills:**
 
@@ -41,7 +40,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
 
 ---
-
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -71,6 +69,5 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 
 ---
