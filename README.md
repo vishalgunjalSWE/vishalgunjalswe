@@ -1,4 +1,6 @@
-# Hi, I'm Vishal D. Gunjal
+<img src="image.jpeg" alt="GitHub Banner" width="100%" />
+
+# Hey there! I'm Vishal D. Gunjal, a passionate developer fueled by a thirst for knowledge and a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
@@ -12,21 +14,24 @@
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-🖥️ **Currently working on**:
+🖥️ **Currently on a Quest**:
 
-- Building expertise in **DevOps** and **Site Reliability Engineering (SRE)** with tools like Docker, Kubernetes, Jenkins, Terraform, and Helm.
+- **DevOps & SRE Domination:** Mastering the art of deploying, scaling, and automating with tools like Jenkins, Docker, Kubernetes, Terraform, Ansible and the AWS, GCP Cloud Platform.  (Hit me up if you want to chat containers or serverless!!)
+- **Full-Stack Finesse:** Sharpening my React and Node.js skills to become a well-rounded developer. (Front-end or back-end, I'm game!)
+- **Kubernetes Conquest:** Setting up a killer Istio mesh with Jaeger and Kiali on AWS EKS (or maybe you have a different cloud platform in mind? Let's talk!). ☁️
 - Expanding my knowledge in **GCP** and preparing for **GCP certifications** to excel as a fresher DevOps engineer.
-- A project involving **Kubernetes Istio setup with Jaeger and Kiali dashboards** on AWS EKS.
 
-🖨️ **Improving skills**:
+🚀 **Leveling Up My Skills:**
 
-- Practicing **Data Structures and Algorithms** on <a href="https://www.leetcode.com">Leetcode</a>.
-- Enhancing my understanding of **React and Node.js** to complement my full-stack development expertise.
+- **Leetcoding my Way to Algorithmic Awesomeness:** Practice on LeetCode to conquer those coding challenges. ⚔️
+- **Actively Engaged:** Member of Google Developer Group Pune & Atlassian Community Pune. Active Participant in Tech Conferences to Stay Ahead with Emerging Technologies. Let's connect at the next tech meet-up!
 
-👨🏻‍💻 Member of the **Google Developer Group Pune** & **Atlassian Community Pune** | **Active Participant in Tech Conferences to Stay Ahead with Emerging Technologies**
-⛰️ Love exploring off-beat hikes and peaks in India. My absolute favorite: 🥁🥁 <a href="https://www.wta.org/go-hiking/hikes/mailbox-peak">Mailbox Peak</a>.
-😄 Pronouns: He/him
-🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
+🏞️ **Beyond the Code:**
+
+- **Off-the-beaten-path Enthusiast:** When I'm not coding, I'm exploring hidden hiking trails (Mailbox Peak anyone? ). Let's swap travel stories! ️
+- **Punctuation Pedant:** Yes, I know I love complete sentences (it's a developer thing!).
+
+📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
 
 ## 💻 Tech Stack:
 
@@ -40,10 +45,9 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/vishhalgunjalpatil/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@vishalgunjalswe)
 
-
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vishalgunjalSWE&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalgunjalSWE&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgunjalSWE&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -55,11 +59,9 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
-![Metrics](https://github.com/vishalgunjalSWE/vishalgunjalswe/blob/1133393f450b9dae110f86892b45f5ccf0482744/github-metrics.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
