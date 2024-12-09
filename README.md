@@ -1,6 +1,6 @@
 <img src="image.jpeg" alt="GitHub Banner" width="100%" />
 
-## Hey there! I'm Vishal D. Gunjal, a passionate developer fueled by a thirst for knowledge & a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
+## Hey there! I'm Vishal D. Gunjal, <br>A passionate developer fueled by a thirst for knowledge & a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
