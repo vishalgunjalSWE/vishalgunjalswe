@@ -26,7 +26,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 - Practicing **Data Structures and Algorithms** on <a href="https://www.leetcode.com">Leetcode</a>.  
 - Enhancing my understanding of **React and Node.js** to complement my full-stack development expertise.
 
-👨🏻‍💻 Member of the **Google Developer Group Pune!!**
+👨🏻‍💻 Member of the **Google Developer Group Pune** & **Atlassian Community Pune** | **Active Participant in Tech Conferences to Stay Ahead with Emerging Technologies**
 ⛰️ Love exploring off-beat hikes and peaks in India. My absolute favorite: 🥁🥁 <a href="https://www.wta.org/go-hiking/hikes/mailbox-peak">Mailbox Peak</a>.  
 😄 Pronouns: He/him  
 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!  
