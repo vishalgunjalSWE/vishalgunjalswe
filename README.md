@@ -1,5 +1,5 @@
 # Hi, I'm Vishal D. Gunjal
-[![](https://komarev.com/ghpvc/?username=vishalgunjalswe&icon=0&color=0)](https://komarev.com)
+[![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
 [![](https://visitcount.itsvg.in/api?id=vishalgunjalSWE&icon=0&color=0)](https://visitcount.itsvg.in)
 
