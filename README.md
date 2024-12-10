@@ -1,14 +1,5 @@
-<!-- Banner Image with Hover Animation Effect -->
-<img src="image.jpeg" alt="GitHub Banner" width="100%" style="border: 2px solid #000; padding: 10px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.5s ease, box-shadow 0.5s ease;">
-
-<!-- Add hover effect using CSS -->
-<style>
-  img:hover {
-    transform: scale(1.1);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  }
-</style>
-
+<!-- Banner Image -->
+<img src="image.jpeg" alt="GitHub Banner" width="100%" />
 
 <!-- Introduction -->
 # Hey there!! I'm Vishal D. Gunjal 👋🏻:
@@ -79,7 +70,7 @@
 <!-- Random Dev Quote -->
 ## ✍️ Dev Quote
 
- <p align="center">
+<p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Inspirational Quote" style="max-width: 100%; height: auto;">
 </p>
 
