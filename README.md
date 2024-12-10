@@ -1,6 +1,8 @@
 <img src="image.jpeg" alt="GitHub Banner" width="100%" />
 
-## Hey there! I'm Vishal D. Gunjal, <br>A passionate developer fueled by a thirst for knowledge & a love for conquering new technical peaks (both in code and on actual mountains!). ‍♂️
+# Hey there!! I'm Vishal D. Gunjal 👋🏻:
+
+## A Passionate Developer Fueled By A Thirst For Knowledge & A Love For Conquering New Technical Peaks (Both In Code & On Actual Mountains!!) ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
@@ -14,35 +16,28 @@
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-🖥️ **Currently on a Quest**:
+## **Currently on a Quest**:
 
 - **DevOps & SRE Domination:** Mastering the art of deploying, scaling, and automating with tools like Jenkins, Docker, Kubernetes, Terraform, Ansible and the AWS, GCP Cloud Platform.  (Hit me up if you want to chat containers or serverless!!)
 - **Full-Stack Finesse:** Sharpening my React and Node.js skills to become a well-rounded developer. (Front-end or back-end, I'm game!)
 - **Kubernetes Conquest:** Setting up a killer Istio mesh with Jaeger and Kiali on AWS EKS (or maybe you have a different cloud platform in mind? Let's talk!). ☁️
 - Expanding my knowledge in **GCP** and preparing for **GCP certifications** to excel as a fresher DevOps engineer.
 
----
-
-🚀 **Leveling Up My Skills:**
+## 🚀 **Leveling Up My Skills:**
 
 - **Leetcoding my Way to Algorithmic Awesomeness:** Practice on LeetCode to conquer those coding challenges. ⚔️
 - **Actively Engaged:** Member of Google Developer Group Pune & Atlassian Community Pune. Active Participant in Tech Conferences to Stay Ahead with Emerging Technologies. Let's connect at the next tech meet-up!
 
----
-
-🏞️ **Beyond the Code:**
+## 🏞️ **Beyond the Code:**
 
 - **Off-the-beaten-path Enthusiast:** When I'm not coding, I'm exploring hidden hiking trails (Mailbox Peak anyone? ). Let's swap travel stories! ️
 - **Punctuation Pedant:** Yes, I know I love complete sentences (it's a developer thing!).
 
----
+## 📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
 
-📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
+## <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 
----
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
@@ -53,7 +48,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ## 🌐 Socials:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vishal-gunjal-)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vishalgunjalswe.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vishalgunjalswe.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gunjalspeacks)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/vishhalgunjalpatil/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@vishalgunjalswe)
@@ -66,7 +61,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ![](https://github-profile-trophy.vercel.app/?username=vishalgunjalSWE&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
