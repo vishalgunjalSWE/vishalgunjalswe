@@ -2,7 +2,7 @@
 
 # Hey there!! I'm Vishal D. Gunjal 👋🏻:
 
-## A Passionate Developer Fueled By A Thirst For Knowledge & A Love For Conquering New Technical Peaks (Both In Code & On Actual Mountains!!) ‍♂️
+## A Passionate Indian Developer Fueled By A Thirst For Knowledge & A Love For Conquering New Technical Peaks (Both In Code & On Actual Mountains!!) ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
@@ -35,9 +35,11 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ## 📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
 
-## <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
