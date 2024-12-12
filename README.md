@@ -73,5 +73,3 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Inspirational Quote" style="max-width: 100%; height: auto;">
 </p>
-
----
