@@ -6,7 +6,7 @@
 
 # Hey there!! I'm Vishal D. Gunjal 👋🏻:
 
-## A Passionate Indian Developer Fueled By A Thirst For Knowledge & A Love For Conquering New Technical Peaks (Both In Code & On Actual Mountains!!) ‍♂️
+## A results-driven engineer specializing in architecting resilient, automated cloud systems. My deep background in full-stack software development provides a unique advantage in bridging the gap between development and operations to drive velocity and system reliability. ‍♂️
 
 [![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
 
