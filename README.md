@@ -220,7 +220,11 @@ I write in-depth technical articles explaining the "why" behind infrastructure d
 - **Terraform State Management** - Remote state, locking, and team collaboration
 - **Observability Patterns** - Metrics, logs, traces, and correlation strategies
 
-➡️ [Read on Medium](https://medium.com/@vishalgunjal0287)
+  </a>
+    <a href="https://medium.com/@vishalgunjal" target="_blank">
+    <img src="https://img.shields.io/badge/Read on Medium -12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
 
 ---
 
