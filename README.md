@@ -2,11 +2,6 @@
 
 <img src="image.jpeg" alt="GitHub Banner" width="100%" /> 
 
-<!-- Introduction -->
-
-<!-- Banner Image -->
-
-<img src="image.jpeg" alt="GitHub Banner" width="100%" /> 
 
 <!-- Introduction -->
 
