@@ -4,70 +4,294 @@
 
 <!-- Introduction -->
 
-# Hey there!! I'm Vishal D. Gunjal 👋🏻:
+<!-- Banner Image -->
 
-## A results-driven engineer specializing in architecting resilient, automated cloud systems. My deep background in full-stack software development provides a unique advantage in bridging the gap between development and operations to drive velocity and system reliability. ‍♂️
+<img src="image.jpeg" alt="GitHub Banner" width="100%" /> 
 
-[![](https://komarev.com/ghpvc/?username=vishalgunjalswe)](https://komarev.com)
+<!-- Introduction -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;DevOps/SRE+Enthusiast;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+# 👋 Hi, I'm Vishal Gunjal
 
-Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+**DevOps Engineer | Site Reliability Engineering | Cloud-Native Platform Architecture**
 
-## **Currently on a Quest**:
+Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and GitOps. Passionate about automation, observability, and system reliability.
 
-- **DevOps & SRE Domination:** Mastering the art of deploying, scaling, and automating with tools like Jenkins, Docker, Kubernetes, Terraform, Ansible and the AWS, GCP Cloud Platform.  (Hit me up if you want to chat containers or serverless!!)
-- **Full-Stack Finesse:** Sharpening my React and Node.js skills to become a well-rounded developer. (Front-end or back-end, I'm game!)
-- **Kubernetes Conquest:** Setting up a killer Istio mesh with Jaeger and Kiali on AWS EKS (or maybe you have a different cloud platform in mind? Let's talk!). ☁️
-- Expanding my knowledge in **GCP** and preparing for **GCP certifications** to excel as a fresher DevOps engineer.
+---
 
-## 🚀 **Leveling Up My Skills:**
+## 🚀 What I Do
 
-- **Leetcoding my Way to Algorithmic Awesomeness:** Practice on LeetCode to conquer those coding challenges. ⚔️
-- **Actively Engaged:** Member of Google Developer Group Pune & Atlassian Community Pune. Active Participant in Tech Conferences to Stay Ahead with Emerging Technologies. Let's connect at the next tech meet-up!
+I specialize in **cloud-native infrastructure** and **platform engineering**, with hands-on experience building:
 
-## 🏞️ **Beyond the Code:**
+- **Microservices platforms** on AWS EKS with event-driven architecture (RabbitMQ, Kafka)
+- **Infrastructure as Code** using Terraform with modular, reusable patterns
+- **GitOps workflows** with ArgoCD for declarative, drift-free deployments
+- **Full observability stacks** (Prometheus, Grafana, ELK, Jaeger)
+- **DevSecOps pipelines** with automated security scanning (SonarQube, Trivy)
 
-- **Off-the-beaten-path Enthusiast:** When I'm not coding, I'm exploring hidden hiking trails (Mailbox Peak anyone? ). Let's swap travel stories! ️
-- **Punctuation Pedant:** Yes, I know I love complete sentences (it's a developer thing!).
+---
 
-## 📌 **Remember:** I'm always learning and growing. Feel free to reach out and connect!
+## 💼 Current Focus
 
-<!-- Social Links -->
+- 🔨 Building production-grade DevOps projects demonstrating enterprise patterns
+- 📚 Deep-diving into **Kubernetes** (RBAC, Network Policies, Security, Operators)
+- 🔐 Implementing **DevSecOps** practices (shift-left security, policy-as-code)
+- 📊 Designing **SRE observability** systems (SLIs, SLOs, error budgets)
+- 🤖 Exploring **MLOps** and **AI-driven infrastructure automation**
 
-## 🌐 Socials: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vishal-gunjal-)  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vishalgunjalswe.vercel.app/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gunjalspeacks)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/vishhalgunjalpatil/)  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@vishalgunjalswe)
+---
 
-<!-- Snake SVG Animation -->
+## 🧠 Engineering Philosophy
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+**I believe in:**
+- **Infrastructure as Code** - Everything reproducible, version-controlled, tested
+- **GitOps Over ClickOps** - Declarative state, automated reconciliation
+- **Observability First** - Metrics, logs, traces before production
+- **Security by Default** - RBAC, Network Policies, zero-trust networking
+- **SRE Principles** - SLIs/SLOs, error budgets, toil reduction
 
-## 💻 Tech Stack:
+**I don't believe in:**
+- Manual deployments or "works on my machine" syndrome
+- Infrastructure without monitoring
+- Code without tests or automation without guardrails
 
-## 1. ⚙️ DevOps & SRE Excellence: Enabling Scalable and Resilient Systems
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-%230077B5.svg?style=for-the-badge&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/trivy-%23EE0000.svg?style=for-the-badge&logo=trivy&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 🛠️ Tech Stack
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" /><br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" /><br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" /><br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" /><br>Terraform
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" /><br>Ansible
+    </td>
+    <td align="center" width="96">
+      <img src="https://th.bing.com/th/id/OIP.ItRTdPy1CgAol_osPwc-sAHaHa?w=158&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="60" /><br>Helm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" /><br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/argo-cd.png" width="48" /><br>ArgoCD
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" /><br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" /><br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" /><br>ELK
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" /><br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git
+    </td>
+  </tr>
+</table>
 
-## 2. 🚀 Full-Stack Development: Transforming Ideas into Digital Reality
+---
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![RESTful API](https://img.shields.io/badge/RESTful%20API-%230077B5.svg?style=for-the-badge) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+## 🏗️ What I Build
 
-<!-- GitHub Trophies Code -->
+### **Production-Grade Cloud Platforms**
+I architect and implement complete cloud-native systems, not just tutorials or toy projects:
 
-## 🏆 GitHub Trophies
+**Complexity Level:**
+- ✅ Multi-service architectures (8+ microservices)
+- ✅ Event-driven patterns (async messaging, pub/sub, DLQs)
+- ✅ Multi-AZ infrastructure (HA, fault tolerance, disaster recovery)
+- ✅ Full observability (metrics, logs, traces - three pillars)
+- ✅ Security hardening (RBAC, Network Policies, IRSA, Pod Security)
+- ✅ GitOps workflows (Git as single source of truth)
 
-![](https://github-profile-trophy.vercel.app/?username=vishalgunjalSWE&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+---
 
-<!-- Random Dev Quote -->
+## 📚 Featured Work
 
-## ✍️ Dev Quote's
+### 1️⃣ [Cloud-Native E-Commerce Platform](https://github.com/vishalgunjalSWE/cloud-native-retail-platform)
+**Production-grade microservices on AWS EKS**
+
+**What makes this different:**
+- 8 independent microservices with proper domain boundaries (DDD principles)
+- Event-driven architecture preventing cascading failures
+- Multi-AZ infrastructure with automated failover
+- Distributed caching reducing database load
+- Full observability with correlation IDs for request tracing
+
+**Architecture Decisions:**
+```
+Why RabbitMQ over Kafka?
+→ Simpler ops for project scale, better routing patterns, DLQ support
+
+Why Redis cache-aside pattern?
+→ Handles cache misses gracefully, prevents stampede on cache clear
+
+Why IRSA over hardcoded credentials?
+→ Temporary credentials, automatic rotation, AWS IAM integration
+
+Why GitOps with ArgoCD?
+→ Git as audit trail, automated drift correction, declarative state
+```
+
+**Tech:** Go, Java, Node.js | Kubernetes (EKS) | Terraform | ArgoCD | RabbitMQ | Redis | Prometheus | Grafana | Jaeger
+
+**Skills Demonstrated:**
+- Microservices decomposition
+- Event-driven architecture
+- Distributed caching strategies
+- Kubernetes security (RBAC, Network Policies, Pod Security)
+- Infrastructure as Code (Terraform modules, remote state)
+- GitOps automation
+- SRE observability (RED metrics, SLOs, distributed tracing)
+
+---
+
+### 2️⃣ [Enterprise DevSecOps Platform](https://github.com/vishalgunjalSWE/wanderlust-devsecops-gitops)
+**Shift-left security with automated CI/CD and observability**
+
+**What makes this different:**
+- Reusable pipeline logic (Groovy shared libraries)
+- Security scanning at multiple stages (SAST, container, IaC)
+- Centralized logging with request correlation
+- Infrastructure drift detection and remediation
+- DORA metrics tracking for continuous improvement
+
+**Architecture Decisions:**
+```
+Why Jenkins shared libraries?
+→ DRY principle, standardized pipelines, easier maintenance
+
+Why ELK over CloudWatch?
+→ Better aggregation, custom dashboards, correlation IDs, cost control
+
+Why scheduled drift detection?
+→ Catch manual changes, enforce GitOps, prevent config drift
+
+Why Infracost integration?
+→ Cost awareness before apply, prevent bill shock, FinOps culture
+```
+
+**Tech:** Jenkins (Groovy) | Terraform | SonarQube | Trivy | ELK Stack | ArgoCD | Prometheus | Grafana
+
+**Skills Demonstrated:**
+- CI/CD pipeline engineering
+- Shift-left security (DevSecOps)
+- Centralized logging and correlation
+- Infrastructure automation
+- Cost optimization awareness
+- Platform observability
+
+---
+
+## 📝 Technical Writing
+
+I write in-depth technical articles explaining the "why" behind infrastructure decisions:
+
+**Recent Articles:**
+- **Kubernetes RBAC Deep-Dive** - Implementing least-privilege access patterns
+- **GitOps vs Traditional CD** - Trade-offs and decision framework
+- **Terraform State Management** - Remote state, locking, and team collaboration
+- **Observability Patterns** - Metrics, logs, traces, and correlation strategies
+
+➡️ [Read on Medium](https://medium.com/@vishalgunjal0287)
+
+---
+
+## 🌐 Community Involvement
+
+**Active Participation:**
+- **Google Developer Group (GDG) Pune** - Cloud-native discussions, hands-on labs
+- **CNCF Community** - Kubernetes, service mesh, observability
+- **AWS User Group Pune** - Best practices, architecture patterns
+- **Atlassian Community Pune** - CI/CD, DevOps automation
+
+---
+
+## 🎯 2025 Goals
+
+**Technical:**
+- ✅ Build 4 production-grade cloud platforms (Complete)
+- 🔄 Contribute to CNCF projects (Kubernetes, Prometheus, ArgoCD)
+- 📚 Deep-dive into Kubernetes operators and CRDs
+- 🔐 Master service mesh (Istio/Linkerd) and zero-trust networking
+- 🤖 Explore MLOps and infrastructure for ML workloads
+
+**Professional:**
+- 📝 Publish 25+ in-depth technical articles
+- 🎤 Present at GDG Pune and AWS User Group
+- 💼 Land first DevOps/SRE role at product company or cloud-native startup
+- 🌟 Contribute to open-source (Kubernetes, Terraform providers, Helm charts)
+
+**Learning:**
+- 📖 Complete AWS DevOps Professional certification
+- 📖 Complete CKA and CKS certifications
+- 📖 Study distributed systems papers (Raft, Paxos, CAP theorem)
+
+---
+
+## 💡 What Drives Me
+
+I'm fascinated by **systems that scale, self-heal, and never go down.**
+
+Questions that keep me up at night:
+- How does Kubernetes reconcile desired vs actual state?
+- What trade-offs did AWS make in EKS networking design?
+- How do Netflix and Google achieve 99.99% uptime?
+- What's the right balance between consistency and availability?
+- How do you design alerts that don't cause alert fatigue?
+
+**I don't just want to use tools - I want to understand how they work under the hood.**
+
+---
+
+## 📈 Contribution Graph
+
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalgunjalSWE&theme=tokyo-night&hide_border=true)](https://github.com/vishalgunjalSWE)
+
+---
 
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Inspirational Quote" style="max-width: 100%; height: auto;">
+  <img src="https://komarev.com/ghpvc/?username=vishalgunjalSWE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  <i>⚡ "Automation is not about replacing humans, it's about freeing them to do what they do best."</i>
+</p>
+
+---
+
+**💼 Open to opportunities:** DevOps Engineer | SRE | Platform Engineer | Cloud Engineer  
+**📍 Location:** Pune, India (Open to Remote & Relocation)  
+**📧 Contact:** vishalgunjal0287@gmail.com
