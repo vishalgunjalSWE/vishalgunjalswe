@@ -225,6 +225,7 @@ I write in-depth technical articles explaining the "why" behind infrastructure d
     <img src="https://img.shields.io/badge/Read on Medium -12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p> -->
+
 ## 📝 The "1% SRE Roadmap" Series
 
 I document my journey from fundamental concepts to advanced SRE implementations on Medium.
