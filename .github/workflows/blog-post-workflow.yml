@@ -16,14 +16,13 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Your Feed URL
           feed_list: "https://medium.com/feed/@vishalgunjal"
           max_post_count: 5
           
-          # 👇 IMPORTANT: This creates the table row structure
-          template: "| [$title]($url) | $date |$newline"
+          # 👇 FIXED: $newline is at the START to prevent rows from merging
+          template: "$newline| [$title]($url) | $date |"
           
-          # Date Format
-          date_format: "MMM d, yyyy"
+          # 👇 FIXED: "dd MMM yyyy" gives you "16 Jan 2026"
+          date_format: "dd MMM yyyy"
           
-          commit_message: "docs: update readme with table layout"
+          commit_message: "docs: fix table newlines and date format"
