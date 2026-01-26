@@ -177,7 +177,7 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 > *I document the **"why" behind my code** — deep dives into Engineering Systems, FinOps, Scalability, and SRE practices.*  
 >  
-> [![Medium](https://img.shields.io/badge/Medium-Read%20The%201%25%20SRE%20Roadmap-black?style=for-the-badge&logo=medium)](https://medium.com/@vishalgunjalSWE)
+> [![Medium](https://img.shields.io/badge/Medium-Read%20The%201%25%20SRE%20Roadmap-black?style=for-the-badge&logo=medium)](https://medium.com/@vishalgunjal)
 
 
 ---
