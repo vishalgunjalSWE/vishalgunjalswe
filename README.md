@@ -232,7 +232,11 @@ I document my journey from fundamental concepts to advanced SRE implementations 
 ➡️ [Read more articles on Medium](https://medium.com/@vishalgunjal0287)
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 [Part 10/10: The SRE Mindset- Engineering Systems That Do Not Depend on You](https://vishalgunjal.medium.com/part-10-10-the-sre-mindset-engineering-systems-that-do-not-depend-on-you-937ac3f56623?source=rss-460998244e54------2)
+- 📝 [DevSecOps: Engineering Security as a Non-Negotiable Quality Gate](https://vishalgunjal.medium.com/devsecops-engineering-security-as-a-non-negotiable-quality-gate-905baf23e6c9?source=rss-460998244e54------2)
+- 📝 [FinOps — How SREs Turn “Cost Centers” into “Efficiency Engines”](https://vishalgunjal.medium.com/finops-how-sres-turn-cost-centers-into-efficiency-engines-36d189a34a14?source=rss-460998244e54------2)
+- 📝 [GitOps at Scale: Why “Sync” is the New “Apply” — Architecting a Self-Healing Multi-Cluster Platform](https://aws.plainenglish.io/gitops-at-scale-why-sync-is-the-new-apply-architecting-a-self-healing-multi-cluster-platform-6cc575f667c4?source=rss-460998244e54------2)
+- 📝 [Networking — The SRE’s Guide to the 504 Gateway Timeout](https://vishalgunjal.medium.com/networking-the-sres-guide-to-the-504-gateway-timeout-54b5a0a863f5?source=rss-460998244e54------2)<!-- BLOG-POST-LIST:END -->
 
 ---
 
