@@ -165,7 +165,7 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 > *"I'm fascinated by systems that scale, self-heal, and never go down."*
 
----
+##
 
 <!-- BLOG-POST-LIST:START -->
 - 📝 [Part 10/10: The SRE Mindset- Engineering Systems That Do Not Depend on You](https://vishalgunjal.medium.com/part-10-10-the-sre-mindset-engineering-systems-that-do-not-depend-on-you-937ac3f56623?source=rss-460998244e54------2) — 16 Jan 2026
