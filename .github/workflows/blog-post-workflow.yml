@@ -19,13 +19,13 @@ jobs:
           feed_list: "https://medium.com/feed/@vishalgunjal"
           max_post_count: 5
           
-          # 👇 JAVASCRIPT LOGIC TO FORCE THE DATE FORMAT
+          # 👇 JAVASCRIPT: We overwrite the existing 'date' field directly
           item_exec: |
-            const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-            const d = new Date(post.pubDate);
-            post.my_custom_date = `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+            var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+            var d = new Date(post.pubDate);
+            post.date = months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
             
-          # 👇 USE THE CUSTOM VARIABLE WE JUST MADE ($my_custom_date)
-          template: "$newline- 📝 [$title]($url) — $my_custom_date"
+          # 👇 TEMPLATE: We use the standard $date, which we just hacked above
+          template: "$newline- 📝 [$title]($url) — $date"
           
-          commit_message: "docs: update readme with forced date script"
+          commit_message: "docs: update readme with overwritten date"
