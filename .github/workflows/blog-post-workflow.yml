@@ -25,8 +25,6 @@
 #           template: "$newline- 📝 [$title]($url)"
 #           commit_message: "docs: update readme with latest medium posts"
 
-
-
 name: Latest blog post workflow
 
 on:
@@ -48,10 +46,9 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@vishalgunjal0287"
           max_post_count: 5
-          # Template: 📝 [Title](Link) — Date
           template: "$newline- 📝 [$title]($url) — $date"
           
-          # 👇 FIXED: Uppercase 'MMM' is required for "Jan/Feb/Mar"
+          # 👇 I CHANGED 'mmm' TO 'MMM' HERE. THIS IS THE FIX.
           date_format: "MMM d, yyyy"
           
-          commit_message: "docs: update readme with correct date format"
+          commit_message: "docs: fix date format to use months instead of minutes"
