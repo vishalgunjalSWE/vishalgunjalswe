@@ -31,8 +31,9 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    # Runs once every hour
+    # Runs once every hour (Best practice for active profiles)
     - cron: '0 * * * *'
+  # Allows manual trigger for immediate updates
   workflow_dispatch: 
 
 jobs:
@@ -48,11 +49,11 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@vishalgunjal0287"
           max_post_count: 5
-          # The template for the link
+          # Template: 📝 [Title](Link) — Date
           template: "$newline- 📝 [$title]($url) — $date"
-          # 👇 FIXED DATE FORMAT
-          # 'mmm' = Jan, Feb, Mar (Month Name)
-          # 'd'   = 16 (Day)
-          # 'yyyy'= 2026 (Year)
+          # Date Format: "Jan 16, 2026"
+          # 'mmm' = Short Month (Jan)
+          # 'd'   = Day (16)
+          # 'yyyy'= Year (2026)
           date_format: "mmm d, yyyy"
           commit_message: "docs: update readme with latest medium posts"
