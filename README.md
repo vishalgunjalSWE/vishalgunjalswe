@@ -26,29 +26,7 @@ Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and
     <img alt="Phone" src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <!-- <a href="https://www.credly.com/users/vishal-gunjal.e6d26c06">
-    <img alt="Credly" src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-  &nbsp;&nbsp; -->
 </p>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-📧 **Email**  
-[vishalgunjal0287@gmail.com](mailto:vishalgunjal0287@gmail.com)
-
-</td>
-
-<td align="center" width="200">
-
-💼 **LinkedIn**  
-[linkedin.com/in/vishalgunjal1](https://www.linkedin.com/in/vishalgunjal1)
-
-</td>
-</tr>
-</table>
 
 
 ---
