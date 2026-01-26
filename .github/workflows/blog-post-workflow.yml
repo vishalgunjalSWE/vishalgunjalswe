@@ -44,11 +44,10 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@vishalgunjal0287"
+          # 👇 FIXED: Removed '0287' from the username
+          feed_list: "https://medium.com/feed/@vishalgunjal"
+          
           max_post_count: 5
           template: "$newline- 📝 [$title]($url) — $date"
-          
-          # 👇 I CHANGED 'mmm' TO 'MMM' HERE. THIS IS THE FIX.
           date_format: "MMM d, yyyy"
-          
-          commit_message: "docs: fix date format to use months instead of minutes"
+          commit_message: "docs: fix medium username in rss feed"
