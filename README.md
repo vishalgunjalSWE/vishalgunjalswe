@@ -231,11 +231,10 @@ I write in-depth technical articles explaining the "why" behind infrastructure d
 I document my journey from fundamental concepts to advanced SRE implementations on Medium.
 
 <!-- BLOG-POST-LIST:START -->
-| Latest Article 📄 | Published 📅 |
-| :--- | :--- |
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on Medium](https://medium.com/@vishalgunjal)
+
 
 ---
 
