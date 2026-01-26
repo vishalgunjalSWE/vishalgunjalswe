@@ -1,0 +1,30 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs once every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@vishalgunjal"
+          max_post_count: 5
+          
+          # 👇 STANDARD TEMPLATE (No custom JS)
+          template: "$newline- 📝 [$title]($url) — $date"
+          
+          # 👇 ROBUST FORMAT: "16 Jan 2026"
+          # This uses the internal library's standard mask
+          date_format: "dd mmm yyyy"
+          
+          commit_message: "docs: fixed date format to standard string"
