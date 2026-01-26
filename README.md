@@ -4,11 +4,14 @@
 
 
 <!-- Introduction -->
+**Site Reliability Engineer | Platform Engineering | Distributed Systems**
 
-**DevOps Engineer | Site Reliability Engineering | Cloud-Native Platform Architecture**
-
-Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and GitOps. Passionate about automation, observability, and system reliability.
-
+> Early-career engineer with senior-level systems thinking. Building production-grade cloud platforms demonstrating reliability, observability, and automation principles used by Google, Netflix, and Uber.
+```
+Current: Production-grade Kubernetes platforms, SRE observability, GitOps at scale
+Approach: Build systems that teach industry patterns, not tutorials
+Philosophy: Infrastructure should be boring (reliable), not exciting (breaking)
+```
 ---
 **💼 Open to opportunities:** DevOps Engineer | SRE | Platform Engineer | Cloud Engineer  
 **📍 Location:** Pune, India (Open to Remote & Relocation)
@@ -60,20 +63,20 @@ I specialize in **cloud-native infrastructure** and **platform engineering**, wi
 
 ---
 
-## 💭 Engineering Philosophy
+## 🧠 Engineering Philosophy (Borrowed from Google SRE)
 
-**I believe in:**
-- **Infrastructure as Code** - Everything reproducible, version-controlled, tested
-- **GitOps Over ClickOps** - Declarative state, automated reconciliation
-- **Observability First** - Metrics, logs, traces before production
-- **Security by Default** - RBAC, Network Policies, zero-trust networking
-- **SRE Principles** - SLIs/SLOs, error budgets, toil reduction
+| Principle | What It Means | How I Apply It |
+|-----------|---------------|----------------|
+| **Everything Fails** | Design for failure, not success | Multi-AZ, circuit breakers, graceful degradation |
+| **Toil is the Enemy** | Automate repetitive work | GitOps, drift detection, self-healing |
+| **Observability ≠ Monitoring** | Understand unknowns | Distributed tracing, correlation IDs, SLOs |
+| **Security by Default** | Zero trust | RBAC, Network Policies, no hardcoded secrets |
+| **Error Budgets** | Balance velocity and reliability | SLI/SLO tracking, controlled risk |
 
 **I don't believe in:**
-- Manual deployments or "works on my machine" syndrome
+- Manual deployments ("works on my machine" syndrome)
 - Infrastructure without monitoring
 - Code without tests or automation without guardrails
-
 ---
 
 ## 🛠️ Tech Stack
@@ -140,6 +143,38 @@ I specialize in **cloud-native infrastructure** and **platform engineering**, wi
     </td>
   </tr>
 </table>
+
+---
+## 🌟 What Sets Me Apart (Early Career with Senior Thinking)
+
+### **1. I Think in Systems, Not Tools**
+
+Most engineers: "I know Docker, Kubernetes, Terraform"
+
+Me: "I understand distributed systems failure modes and design infrastructure that degrades gracefully. I use Kubernetes for declarative state reconciliation and self-healing, not because it's trendy."
+
+---
+
+### **2. I Design for Failure**
+
+Most engineers: "My app works in testing"
+
+Me: "I've tested:
+- What happens when RabbitMQ goes down? (DLQ prevents message loss)
+- What if Redis crashes? (Cache-aside handles misses)
+- What if AWS loses an AZ? (Multi-AZ with auto-failover)"
+
+---
+
+### **3. I Document Decisions**
+
+Most engineers: "I built it"
+
+Me: "I documented:
+- WHY I chose RabbitMQ over Kafka (trade-off analysis)
+- Architecture diagrams (system design)
+- Runbooks (production operations)
+- What I learned from failures"
 
 ---
 
@@ -213,18 +248,23 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 ---
 
-## 💡 What Drives Me
+## 💡 Questions That Keep Me Up at Night
+```
+→ How does Kubernetes handle split-brain in etcd?
+→ What's the optimal error budget for a new service?
+→ How do you design alerts that don't cause fatigue?
+→ What's the CAP theorem trade-off in my architecture?
+→ How would Netflix design this system?
+→ What's the failure mode I haven't considered?
+```
 
-I'm fascinated by **systems that scale, self-heal, and never go down.**
+**I don't just want to use tools. I want to understand the engineering decisions behind them.**
 
-Questions that keep me up at night:
-- How does Kubernetes reconcile desired vs actual state?
-- What trade-offs did AWS make in EKS networking design?
-- How do Netflix and Google achieve 99.99% uptime?
-- What's the right balance between consistency and availability?
-- How do you design alerts that don't cause alert fatigue?
-
-**I don't just want to use tools - I want to understand how they work under the hood.**
+**Currently Reading:**
+- 📖 Site Reliability Engineering (Google SRE Book)
+- 📖 Designing Data-Intensive Applications (Martin Kleppmann)
+- 📖 Kubernetes Patterns (Bilgin Ibryam)
+- 📖 Raft Consensus Paper (understanding distributed systems)
 
 ---
 
