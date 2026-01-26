@@ -11,8 +11,10 @@ Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and
 
 ---
 **💼 Open to opportunities:** DevOps Engineer | SRE | Platform Engineer | Cloud Engineer  
-**📍 Location:** Pune, India (Open to Remote & Relocation)  
-##
+**📍 Location:** Pune, India (Open to Remote & Relocation)
+## 
+
+
 <p align="center">
   <a href="mailto:vishalgunjal0287@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,7 +28,12 @@ Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and
     <img alt="Phone" src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <!-- <a href="https://www.credly.com/users/vishal-gunjal.e6d26c06">
+    <img alt="Credly" src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  &nbsp;&nbsp; -->
 </p>
+
 
 
 ---
@@ -53,7 +60,7 @@ I specialize in **cloud-native infrastructure** and **platform engineering**, wi
 
 ---
 
-## 🧠 Engineering Philosophy
+## 💭 Engineering Philosophy
 
 **I believe in:**
 - **Infrastructure as Code** - Everything reproducible, version-controlled, tested
@@ -153,18 +160,22 @@ I write in-depth technical articles explaining the "why" behind infrastructure d
 </p> -->
 
 ## 🧠 Systems Thinking & Engineering
+
 I explore the trade-offs in distributed systems, documenting my journey from "how it works" to "why it breaks."
 
 > *"I'm fascinated by systems that scale, self-heal, and never go down."*
+
+##
 
 <!-- BLOG-POST-LIST:START -->
 - 📝 [Part 10/10: The SRE Mindset- Engineering Systems That Do Not Depend on You](https://vishalgunjal.medium.com/part-10-10-the-sre-mindset-engineering-systems-that-do-not-depend-on-you-937ac3f56623?source=rss-460998244e54------2) — 16 Jan 2026
 - 📝 [DevSecOps: Engineering Security as a Non-Negotiable Quality Gate](https://vishalgunjal.medium.com/devsecops-engineering-security-as-a-non-negotiable-quality-gate-905baf23e6c9?source=rss-460998244e54------2) — 14 Jan 2026
 - 📝 [FinOps — How SREs Turn “Cost Centers” into “Efficiency Engines”](https://vishalgunjal.medium.com/finops-how-sres-turn-cost-centers-into-efficiency-engines-36d189a34a14?source=rss-460998244e54------2) — 10 Jan 2026
 - 📝 [GitOps at Scale: Why “Sync” is the New “Apply” — Architecting a Self-Healing Multi-Cluster Platform](https://aws.plainenglish.io/gitops-at-scale-why-sync-is-the-new-apply-architecting-a-self-healing-multi-cluster-platform-6cc575f667c4?source=rss-460998244e54------2) — 07 Jan 2026
-- 📝 [Networking — The SRE’s Guide to the 504 Gateway Timeout](https://vishalgunjal.medium.com/networking-the-sres-guide-to-the-504-gateway-timeout-54b5a0a863f5?source=rss-460998244e54------2) — 04 Jan 2026<!-- BLOG-POST-LIST:END -->
-
-👉 **[Read my full "1% SRE Roadmap" on Medium](https://medium.com/@vishalgunjalSWE)**
+- 📝 [Networking — The SRE’s Guide to the 504 Gateway Timeout](https://vishalgunjal.medium.com/networking-the-sres-guide-to-the-504-gateway-timeout-54b5a0a863f5?source=rss-460998244e54------2) — 04 Jan 2026
+<!-- BLOG-POST-LIST:END -->
+> *I document the **"why" behind my code** — deep dives into Engineering Systems, FinOps, Scalability, and SRE practices.*
+[![Medium](https://img.shields.io/badge/Medium-Read%20The%201%25%20SRE%20Roadmap-black?style=for-the-badge&logo=medium)](https://medium.com/@vishalgunjalSWE)
 
 ---
 
@@ -178,10 +189,10 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 **Technical:**
-- ✅ Build 4 production-grade cloud platforms (Complete)
+- ✅ Build 4 production-grade cloud platforms (End-to-End)
 - 🔄 Contribute to CNCF projects (Kubernetes, Prometheus, ArgoCD)
 - 📚 Deep-dive into Kubernetes operators and CRDs
 - 🔐 Master service mesh (Istio/Linkerd) and zero-trust networking
@@ -189,13 +200,13 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 **Professional:**
 - 📝 Publish 25+ in-depth technical articles
-- 🎤 Present at GDG Pune and AWS User Group
-- 💼 Land first DevOps/SRE role at product company or cloud-native startup
+- 🎤 Present at CNCF Pune and AWS User Group
+- 💼 Land first DevOps/SRE role as a early-career engineer
 - 🌟 Contribute to open-source (Kubernetes, Terraform providers, Helm charts)
 
 **Learning:**
 - 📖 Complete AWS DevOps Professional certification
-- 📖 Complete CKA and CKS certifications
+- 📖 Complete CKA and CKS certifications before 2027
 - 📖 Study distributed systems papers (Raft, Paxos, CAP theorem)
 
 ---
