@@ -5,8 +5,6 @@
 
 <!-- Introduction -->
 
-# 👋 Hi, I'm Vishal Gunjal
-
 **DevOps Engineer | Site Reliability Engineering | Cloud-Native Platform Architecture**
 
 Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and GitOps. Passionate about automation, observability, and system reliability.
