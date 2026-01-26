@@ -153,7 +153,7 @@ Most engineers: "I know Docker, Kubernetes, Terraform"
 
 Me: "I understand distributed systems failure modes and design infrastructure that degrades gracefully. I use Kubernetes for declarative state reconciliation and self-healing, not because it's trendy."
 
----
+##
 
 ### **2. I Design for Failure**
 
@@ -164,7 +164,7 @@ Me: "I've tested:
 - What if Redis crashes? (Cache-aside handles misses)
 - What if AWS loses an AZ? (Multi-AZ with auto-failover)"
 
----
+##
 
 ### **3. I Document Decisions**
 
