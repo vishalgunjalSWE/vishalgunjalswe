@@ -19,13 +19,12 @@ jobs:
           feed_list: "https://medium.com/feed/@vishalgunjal"
           max_post_count: 5
           
-          # 👇 JAVASCRIPT: We overwrite the existing 'date' field directly
+          # 👇 FIXED: Use 'isoDate' (Safe) instead of 'pubDate' (Unsafe)
           item_exec: |
             var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-            var d = new Date(post.pubDate);
+            var d = new Date(post.isoDate); 
             post.date = months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
             
-          # 👇 TEMPLATE: We use the standard $date, which we just hacked above
           template: "$newline- 📝 [$title]($url) — $date"
           
-          commit_message: "docs: update readme with overwritten date"
+          commit_message: "docs: update readme with isoDate fix"
