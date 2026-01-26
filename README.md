@@ -165,7 +165,7 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 
 > *"I'm fascinated by systems that scale, self-heal, and never go down."*
 
-##
+---
 
 <!-- BLOG-POST-LIST:START -->
 - 📝 [Part 10/10: The SRE Mindset- Engineering Systems That Do Not Depend on You](https://vishalgunjal.medium.com/part-10-10-the-sre-mindset-engineering-systems-that-do-not-depend-on-you-937ac3f56623?source=rss-460998244e54------2) — 16 Jan 2026
@@ -174,8 +174,11 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 - 📝 [GitOps at Scale: Why “Sync” is the New “Apply” — Architecting a Self-Healing Multi-Cluster Platform](https://aws.plainenglish.io/gitops-at-scale-why-sync-is-the-new-apply-architecting-a-self-healing-multi-cluster-platform-6cc575f667c4?source=rss-460998244e54------2) — 07 Jan 2026
 - 📝 [Networking — The SRE’s Guide to the 504 Gateway Timeout](https://vishalgunjal.medium.com/networking-the-sres-guide-to-the-504-gateway-timeout-54b5a0a863f5?source=rss-460998244e54------2) — 04 Jan 2026
 <!-- BLOG-POST-LIST:END -->
-> *I document the **"why" behind my code** — deep dives into Engineering Systems, FinOps, Scalability, and SRE practices.*
-[![Medium](https://img.shields.io/badge/Medium-Read%20The%201%25%20SRE%20Roadmap-black?style=for-the-badge&logo=medium)](https://medium.com/@vishalgunjalSWE)
+
+> *I document the **"why" behind my code** — deep dives into Engineering Systems, FinOps, Scalability, and SRE practices.*  
+>  
+> [![Medium](https://img.shields.io/badge/Medium-Read%20The%201%25%20SRE%20Roadmap-black?style=for-the-badge&logo=medium)](https://medium.com/@vishalgunjalSWE)
+
 
 ---
 
