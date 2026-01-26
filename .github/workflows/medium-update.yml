@@ -1,0 +1,30 @@
+name: Medium Blog Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    name: Update Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Your CORRECT Username
+          feed_list: "https://medium.com/feed/@vishalgunjal"
+          max_post_count: 5
+          
+          # Template with Date
+          template: "$newline- 📝 [$title]($url) — $date"
+          
+          # Force Month Name (Jan, Feb)
+          date_format: "MMM d, yyyy"
+          
+          # New commit message to prove it worked
+          commit_message: "docs: FRESH UPDATE with correct date"
