@@ -10,6 +10,7 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -17,14 +18,14 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@vishalgunjal"
+          # Your Medium RSS feed
+          feed_list: "https://medium.com/feed/@vishalgunjal0287"
           max_post_count: 5
           
-          # 👇 STANDARD TEMPLATE (No custom JS)
+          # Template with date
           template: "$newline- 📝 [$title]($url) — $date"
           
-          # 👇 ROBUST FORMAT: "16 Jan 2026"
-          # This uses the internal library's standard mask
+          # Format date as "16 Jan 2026"
           date_format: "dd mmm yyyy"
           
-          commit_message: "docs: fixed date format to standard string"
+          commit_message: "docs: update README with latest Medium posts"
