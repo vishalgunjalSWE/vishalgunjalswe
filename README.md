@@ -232,6 +232,9 @@ I document my journey from fundamental concepts to advanced SRE implementations 
 
 ➡️ [Read more articles on Medium](https://medium.com/@vishalgunjal)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
