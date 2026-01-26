@@ -10,6 +10,11 @@
 Building production-grade cloud platforms on AWS with Kubernetes, Terraform, and GitOps. Passionate about automation, observability, and system reliability.
 
 ---
+**💼 Open to opportunities:** DevOps Engineer | SRE | Platform Engineer | Cloud Engineer  
+**📍 Location:** Pune, India (Open to Remote & Relocation)  
+**📧 Contact:** vishalgunjal0287@gmail.com
+
+---
 
 ## 🚀 What I Do
 
@@ -210,7 +215,3 @@ Questions that keep me up at night:
 </p>
 
 ---
-
-**💼 Open to opportunities:** DevOps Engineer | SRE | Platform Engineer | Cloud Engineer  
-**📍 Location:** Pune, India (Open to Remote & Relocation)  
-**📧 Contact:** vishalgunjal0287@gmail.com
