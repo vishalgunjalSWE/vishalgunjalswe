@@ -210,7 +210,7 @@ Why Infracost integration?
 
 ---
 
-## 📝 Technical Writing
+<!-- ## 📝 Technical Writing
 
 I write in-depth technical articles explaining the "why" behind infrastructure decisions:
 
@@ -224,7 +224,12 @@ I write in-depth technical articles explaining the "why" behind infrastructure d
     <a href="https://medium.com/@vishalgunjal" target="_blank">
     <img src="https://img.shields.io/badge/Read on Medium -12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</p>
+</p> -->
+## 📝 The "1% SRE Roadmap" Series
+
+I document my journey from fundamental concepts to advanced SRE implementations on Medium.
+
+➡️ [Read more articles on Medium](https://medium.com/@vishalgunjal0287)
 
 ---
 
