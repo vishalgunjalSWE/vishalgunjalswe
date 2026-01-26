@@ -2,6 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
+    # Runs once every hour
     - cron: '0 * * * *'
   workflow_dispatch: 
 
@@ -19,10 +20,11 @@ jobs:
           feed_list: "https://medium.com/feed/@vishalgunjal"
           max_post_count: 5
           
-          # 👇 FIXED: $newline is at the START to prevent rows from merging
-          template: "$newline| [$title]($url) | $date |"
+          # 👇 STANDARD TEMPLATE (No custom JS)
+          template: "$newline- 📝 [$title]($url) — $date"
           
-          # 👇 FIXED: "dd MMM yyyy" gives you "16 Jan 2026"
-          date_format: "dd MMM yyyy"
+          # 👇 ROBUST FORMAT: "16 Jan 2026"
+          # This uses the internal library's standard mask
+          date_format: "dd mmm yyyy"
           
-          commit_message: "docs: fix table newlines and date format"
+          commit_message: "docs: fixed date format to standard string"
