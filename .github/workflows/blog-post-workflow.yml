@@ -31,9 +31,8 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    # Runs once every hour (Best practice for active profiles)
+    # Runs once every hour
     - cron: '0 * * * *'
-  # Allows manual trigger for immediate updates
   workflow_dispatch: 
 
 jobs:
@@ -51,9 +50,8 @@ jobs:
           max_post_count: 5
           # Template: 📝 [Title](Link) — Date
           template: "$newline- 📝 [$title]($url) — $date"
-          # Date Format: "Jan 16, 2026"
-          # 'mmm' = Short Month (Jan)
-          # 'd'   = Day (16)
-          # 'yyyy'= Year (2026)
-          date_format: "mmm d, yyyy"
-          commit_message: "docs: update readme with latest medium posts"
+          
+          # 👇 FIXED: Uppercase 'MMM' is required for "Jan/Feb/Mar"
+          date_format: "MMM d, yyyy"
+          
+          commit_message: "docs: update readme with correct date format"
