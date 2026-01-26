@@ -116,21 +116,6 @@ I specialize in **cloud-native infrastructure** and **platform engineering**, wi
 
 ---
 
-## 🏗️ What I Build
-
-### **Production-Grade Cloud Platforms**
-I architect and implement complete cloud-native systems, not just tutorials or toy projects:
-
-**Complexity Level:**
-- ✅ Multi-service architectures (8+ microservices)
-- ✅ Event-driven patterns (async messaging, pub/sub, DLQs)
-- ✅ Multi-AZ infrastructure (HA, fault tolerance, disaster recovery)
-- ✅ Full observability (metrics, logs, traces - three pillars)
-- ✅ Security hardening (RBAC, Network Policies, IRSA, Pod Security)
-- ✅ GitOps workflows (Git as single source of truth)
-
----
-
 <!-- ## 📝 Technical Writing
 
 I write in-depth technical articles explaining the "why" behind infrastructure decisions:
