@@ -198,11 +198,11 @@ I explore the trade-offs in distributed systems, documenting my journey from "ho
 ##
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [How To Achieve Kubernetes High Availability](https://vishalgunjal.medium.com/how-to-achieve-kubernetes-high-availability-815b7f8c2d4d?source=rss-460998244e54------2) — 04 Mar 2026
 - 📝 [Kubernetes Architecture Explained: An Early-Career Perspective &lpar;2026 Edition&rpar;](https://vishalgunjal.medium.com/kubernetes-architecture-explained-an-early-career-perspective-2026-edition-62071ef9b969?source=rss-460998244e54------2) — 14 Feb 2026
 - 📝 [Non-Deterministic Workloads in a Deterministic World: SRE Lessons from the AI Frontier](https://vishalgunjal.medium.com/non-deterministic-workloads-in-a-deterministic-world-sre-lessons-from-the-ai-frontier-0d1213fec8d1?source=rss-460998244e54------2) — 03 Feb 2026
 - 📝 [Part 10/10: The SRE Mindset- Engineering Systems That Do Not Depend on You](https://vishalgunjal.medium.com/part-10-10-the-sre-mindset-engineering-systems-that-do-not-depend-on-you-937ac3f56623?source=rss-460998244e54------2) — 16 Jan 2026
-- 📝 [DevSecOps: Engineering Security as a Non-Negotiable Quality Gate](https://vishalgunjal.medium.com/devsecops-engineering-security-as-a-non-negotiable-quality-gate-905baf23e6c9?source=rss-460998244e54------2) — 14 Jan 2026
-- 📝 [FinOps — How SREs Turn “Cost Centers” into “Efficiency Engines”](https://vishalgunjal.medium.com/finops-how-sres-turn-cost-centers-into-efficiency-engines-36d189a34a14?source=rss-460998244e54------2) — 10 Jan 2026<!-- BLOG-POST-LIST:END -->
+- 📝 [DevSecOps: Engineering Security as a Non-Negotiable Quality Gate](https://vishalgunjal.medium.com/devsecops-engineering-security-as-a-non-negotiable-quality-gate-905baf23e6c9?source=rss-460998244e54------2) — 14 Jan 2026<!-- BLOG-POST-LIST:END -->
 
 > *I document the **"why" behind my code** — deep dives into Engineering Systems, FinOps, Scalability, and SRE practices.*  
 >  
